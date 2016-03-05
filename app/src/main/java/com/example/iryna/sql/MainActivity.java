@@ -11,7 +11,7 @@ public class MainActivity extends ActionBarActivity {
     EditText buckysInput;
     TextView buckysText;
     MyDBHandler dbHandler;
-
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
